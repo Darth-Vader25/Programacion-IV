@@ -46,7 +46,7 @@ Modelo Entidad-Relación (ER)
 	|     clase        |         +---------------------+         |     nivel_difi.. |
 	|     nivel_exp..  |                                         |     localizacion |
 	+------------------+                                         |     recompensa.. |
-                                                             +------------------+
+                                                            	 +------------------+
                                                                       ^
                                                                       |
                              +---------------------+                  |
