@@ -1,6 +1,4 @@
-Sistema de Gestión para Gremio de Aventureros
-
-Modelo Lógico
+📚 Modelo Lógico
 
 Tabla: heroes
 
@@ -36,7 +34,7 @@ Tabla: misiones_monstruos
 	- monstruo_id (INTEGER, FOREIGN KEY REFERENCES monstruos(id))
 	- PRIMARY KEY (mision_id, monstruo_id)
 
-Modelo Entidad-Relación (ER)
+📌 Modelo Entidad-Relación (ER)
 
 	+------------------+         +---------------------+         +------------------+
 	|      HEROES      |         |   MISIONES_HEROES   |         |     MISIONES     |
