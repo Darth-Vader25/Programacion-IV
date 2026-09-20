@@ -18,7 +18,10 @@ Aplicación de línea de comandos (CLI) desarrollada en Python y SQLite para adm
 
 ### Ejecución del programa
 
-1. Clona o descarga este repositorio:
-   ```bash
-   git clone [https://github.com/tu-usuario/biblioteca-personal.git](https://github.com/tu-usuario/biblioteca-personal.git)
-   cd biblioteca-personal
+1. descarga el archivo en este repositorio:
+- biblioteca.db
+- main.py
+
+2. ejecuta el main.py que se encuentra en tu carpeta de descargas.
+
+¡Mucho éxito y manos al código! 🧠🔥
